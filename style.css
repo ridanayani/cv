@@ -1,0 +1,19 @@
+body {
+  background-color: #FCC5C0;
+}
+hr {
+
+  border-style: dotted none none;
+  width: 10%;
+  border-width: 5px;
+  border-color: #C689C6;
+
+}
+h1 {
+  font-family: Garamound, serif;
+  color: #937DC2;
+}
+h3 {
+  font-family: cursive;
+  color: #937DC2;
+}
